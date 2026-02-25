@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Astra Wireless Headphones",
+    "price": 2499,
+    "category": "electronics",
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+    "rating": 4.6,
+    "tags": ["wireless", "noise-canceling"]
+  },
+  {
+    "name": "Nimbus Running Shoes",
+    "price": 1899,
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.4,
+    "tags": ["running", "comfort"]
+  },
+  {
+    "name": "BrewCraft Coffee Grinder",
+    "price": 1299,
+    "category": "home",
+    "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
+    "rating": 4.5,
+    "tags": ["kitchen", "coffee"]
+  },
+  {
+    "name": "Orion Smartwatch Pro",
+    "price": 3999,
+    "category": "electronics",
+   "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg",
+    "rating": 4.7,
+    "tags": ["smartwatch", "fitness"]
+  },
+  {
+    "name": "Zenith Bluetooth Speaker",
+    "price": 1499,
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.3,
+    "tags": ["audio", "portable"]
+  },
+  {
+    "name": "Leather Messenger Bag",
+    "price": 2799,
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.5,
+    "tags": ["leather", "office"]
+  },
+  {
+    "name": "Classic Denim Jacket",
+    "price": 2199,
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.2,
+    "tags": ["denim", "casual"]
+  },
+  {
+    "name": "Minimal Desk Lamp",
+    "price": 999,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.6,
+    "tags": ["lighting", "desk"]
+  },
+  {
+    "name": "Memory Foam Pillow",
+    "price": 799,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1582582621959-48d27397dc69?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.4,
+    "tags": ["sleep", "comfort"]
+  },
+  {
+    "name": "Organic Face Serum",
+    "price": 699,
+    "category": "beauty",
+    "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.5,
+    "tags": ["skincare", "organic"]
+  },
+  {
+    "name": "Aloe Vera Moisturizer",
+    "price": 399,
+    "category": "beauty",
+    "image": "https://images.pexels.com/photos/3738344/pexels-photo-3738344.jpeg",
+    "rating": 4.3,
+    "tags": ["hydration", "skin"]
+  },
+  {
+    "name": "Premium Basmati Rice 5kg",
+    "price": 599,
+    "category": "grocery",
+    "image": "https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg",
+    "rating": 4.7,
+    "tags": ["rice", "staple"]
+  },
+  {
+    "name": "Cold Pressed Olive Oil",
+    "price": 899,
+    "category": "grocery",
+    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.6,
+    "tags": ["oil", "healthy"]
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "price": 7499,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.8,
+    "tags": ["office", "chair"]
+  },
+  {
+    "name": "USB-C Fast Charger",
+    "price": 499,
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.4,
+    "tags": ["charger", "fast"]
+  },
+  {
+    "name": "Sports Water Bottle",
+    "price": 299,
+    "category": "home",
+   "image": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg",
+    "rating": 4.2,
+    "tags": ["fitness", "hydration"]
+  },
+  {
+    "name": "Slim Fit Cotton Shirt",
+    "price": 999,
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.3,
+    "tags": ["formal", "cotton"]
+  },
+  {
+    "name": "Noise Cancelling Earbuds",
+    "price": 2199,
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.5,
+    "tags": ["earbuds", "noise"]
+  },
+  {
+    "name": "Ceramic Dinner Set",
+    "price": 1599,
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.4,
+    "tags": ["kitchen", "dining"]
+  },
+  {
+    "name": "Green Tea Pack",
+    "price": 249,
+    "category": "grocery",
+    "image": "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?auto=format&fit=crop&w=1200&q=60",
+    "rating": 4.6,
+    "tags": ["tea", "health"]
+  }
+]
